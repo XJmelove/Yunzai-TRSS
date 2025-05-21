@@ -1,5 +1,7 @@
 <div align="center">
 
+# 本仓库为fork仓库，仅自用
+
 # TRSS-Yunzai
 
 Yunzai 应用端，支持多账号，支持协议端：OneBotv11、ComWeChat、GSUIDCore、ICQQ、QQBot、QQ频道、微信、KOOK、Telegram、Discord、OPQBot、Lagrange
